@@ -7,7 +7,7 @@
  - Need to move the Boxes to the Targer. Press the arrow keys from 
    the Keyboard to move the player.
    
-   # Project Features
+# Project Features
   - This Project is done by using C# MVC (The Model, View Control Stucture).
   - The Game can be loaded from the folder "SujaNew"  and also you can play as 
     static Game by selecting the Checkbox for static game option.
